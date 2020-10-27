@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738787609719",
+    "firebase_url": "https://bo-ice.firebaseio.com",
+    "project_id": "bo-ice",
+    "storage_bucket": "bo-ice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738787609719:android:aa1ac45b894d9de6f50a72",
+        "android_client_info": {
+          "package_name": "com.boice.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738787609719-u7hpv7ta2u309s244dvsucv4ogkl2pvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hvKu7Du_kEF7FXHNBxUjmUUe5GN1fWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738787609719-u7hpv7ta2u309s244dvsucv4ogkl2pvv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738787609719-bvqmgq1guqnrnn7mesonbqc97lk4sceh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boice.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

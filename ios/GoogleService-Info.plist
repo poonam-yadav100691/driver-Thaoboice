@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>738787609719-bvqmgq1guqnrnn7mesonbqc97lk4sceh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.738787609719-bvqmgq1guqnrnn7mesonbqc97lk4sceh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBZHm0AlFHF1G9tGYVrPYIQwyyz2jgRnk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>738787609719</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.boice.driver</string>
+	<key>PROJECT_ID</key>
+	<string>bo-ice</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bo-ice.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:738787609719:ios:862c0ff58d8c30cef50a72</string>
+	<key>DATABASE_URL</key>
+	<string>https://bo-ice.firebaseio.com</string>
+</dict>
+</plist>

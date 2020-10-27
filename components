@@ -1,0 +1,28 @@
+{
+  "name": "BoiceDriverApp",
+  "displayName": "BoiceDriverApp",
+  "expo": {
+    "name": "BoiceDriverApp",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+    "android": {
+    "icon": ".//assets/images/icon.png"
+          "splash": {
+            "mdpi": "./assets/images/splash.png",
+            "hdpi": "./assets/images/splash.png",
+            "xhdpi": "./assets/images/splash.png",
+            "xxhdpi": "./assets/images/splash.png",
+            "xxxhdpi": "./assets/images/splash.png",
+            "resizeMode": "cover"
+          }
+        }
+
